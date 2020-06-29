@@ -1,6 +1,6 @@
 ### Monthly searches on the Metro Nashville website
 
-- Find the dataset of Top 500 Monthly Searches on https://data.nashville.gov and download the CSV for Excel version of the data. Open the file in Excel and examine it. Be sure to choose comma delimited when prompted. Do not worry about any datatypes for now.
+- Find the dataset of Top 500 Monthly Searches on https://data.nashville.gov and download the CSV for Excel version of the data. Open the file in Excel and examine it. Be sure to choose comma delimited when prompted. Do not worry about any datatypes for now. **CAUTION: Be sure to save the file as a `.xlsx` file. Otherwise you will lose any functions and other analysis you preform**
 
 - How many rows and columns are in the dataset? Enter your answer as text in cell `M2`.
 
