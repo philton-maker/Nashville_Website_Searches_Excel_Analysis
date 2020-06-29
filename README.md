@@ -9,10 +9,10 @@
 
 3. Enter the text “Max queries:” in cell `M3` and enter the maximum query count in `N3` using a formula.
 
-4. Sort the data by `column D` (Query Count).  
-    a. When did the maximum query count occur?
-    b. What was the Query Text?
-    c. What do you notice about the top 5 searches?
+4. Sort the data by `column D` (Query Count).    
+    a. When did the maximum query count occur?  
+    b. What was the Query Text?  
+    c. What do you notice about the top 5 searches?  
 
 5. Enter the text “Year is number: “ in `M4`. Use a formula in `N4` to check the first value in the Year column (C) to see if it is a number.
 
